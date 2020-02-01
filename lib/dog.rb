@@ -5,5 +5,3 @@ def bark
 end
 
 end
-
-end
