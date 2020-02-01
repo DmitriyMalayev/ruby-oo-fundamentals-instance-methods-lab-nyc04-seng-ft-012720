@@ -6,7 +6,7 @@ end
 
 def bark=(bark)
   @bark = "Woof!"
-  puts @bark
+  puts "Woof"
 end
 
 end
